@@ -1,5 +1,20 @@
 <h1 align="center">Hi 👋, I'm Shabab Hussain</h1>
-<h3 align="center">A professional Data Science and Analytics Expert with over 2+ years of experience working as a freelancer on freelancing platforms like Upwork and Fiverr</h3>
+<h3 align="center">I'm a Google-certified data analyst with 2 years of experience working on different freelancing platforms. I love working with data, AI, and automation to solve real-world problems.
+
+🔹 What I Do:
+✅ Data Analysis & Visualization (Excel, Power BI, Python, Google Data Studio)
+✅ Machine Learning & Deep Learning (TensorFlow, NLP, Computer Vision)
+✅ AI & Data Science (Pandas, Matplotlib, Seaborn)
+✅ Project Estimation & Engineering (Electrical Power Engineering background)
+
+🔹 My Background:
+📌 BS in Electrical Power Engineering
+📌 6-month course in Artificial Intelligence & Data Science
+📌 Worked as an Estimation Engineer & Electrical Engineer
+📌 Freelancing as a data analyst, machine learning and Ai expert
+
+🔹 Let's Connect!
+I’m always open to new projects, learning, and collaborations. Feel free to check out my repositories and reach out! 🚀</h3>
 
 
 
