@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shabab Hussain</h1>
 <h3 align="center">I'm a Google-certified data analyst with 2 years of experience working on different freelancing platforms. I love working with data, AI, and automation to solve real-world problems.
 
-🔹 What I Do:
+<h3🔹 What I Do:</h3>
 ✅ Data Analysis & Visualization (Excel, Power BI, Python, Google Data Studio)
 ✅ Machine Learning & Deep Learning (TensorFlow, NLP, Computer Vision)
 ✅ AI & Data Science (Pandas, Matplotlib, Seaborn)
