@@ -6,13 +6,12 @@ I love working with **data, AI, and automation** to solve real-world problems.
 ### 🔹 What I Do:
 ✅ **Data Analysis & Visualization** (Excel, Power BI, Python, Google Data Studio)  
 ✅ **Machine Learning & Deep Learning** (TensorFlow, NLP, Computer Vision)  
-✅ **AI & Data Science** (Pandas, Matplotlib, Seaborn)  
-✅ **Project Estimation & Engineering** (Electrical Power Engineering background)  
+✅ **AI & Data Science** (Pandas, Matplotlib, Seaborn)   
 
 ### 🔹 My Background:
 📌 **BS in Electrical Power Engineering**  
-📌 **6-month course in Artificial Intelligence & Data Science**  
-📌 **Worked as an Estimation Engineer & Electrical Engineer**  
+📌 **6-month course in Artificial Intelligence & Data Science by NUST**  
+📌 **Google certified data analyst basic and advance data analytics course from Coursera**  
 📌 **Freelancing as a Data Analyst, Machine Learning, and AI Expert**  
 
 ### 🔹 Let's Connect!
