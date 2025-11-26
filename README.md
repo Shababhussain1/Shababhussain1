@@ -1,8 +1,8 @@
 # Hi 👋, I'm Shabab Hussain
 
-## I'm a Google-certified data analyst with three years of professional experience across multiple freelancing platforms. I specialize in turning raw data into meaningful insights through visualization, reporting, and trend analysis that help individuals and businesses make smarter decisions.
+## I'm a Google-certified data analyst with three years of professional experience across multiple freelancing platforms. I specialize in turning raw data into meaningful insights through visualization, reporting, and trend analysis.
 
-Along with data analytics, I also work in the field of Artificial Intelligence—building intelligent systems, automating workflows, and developing solutions that enhance efficiency and reduce manual effort. My interest in AI comes from its ability to learn from data, solve complex problems, and transform traditional processes into smarter, scalable systems.
+Along with data analytics, I also work in the field of Artificial Intelligence—building intelligent systems, automating workflows, and developing solutions that enhance efficiency and reduce manual effort.
 
 I enjoy working at the intersection of data, AI, and automation, where I can design models, automate reports, and develop data-driven solutions that deliver measurable results.** to solve real-world problems.
 
